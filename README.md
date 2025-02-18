@@ -17,6 +17,7 @@ Get up and running with large language models.
 [Download](https://ollama.com/download/OllamaSetup.exe)
 
 ### Linux
+### Linux2
 
 ```
 curl -fsSL https://ollama.com/install.sh | sh
